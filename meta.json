@@ -62,9 +62,5 @@
   {
     "repo": "https://raw.githubusercontent.com/woimqimodkbrne/XAT/master/repo.json",
     "plugins": ["XAT.Plugin"]
-  },
-  {
-    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/YesAlready/master/repo.json",
-    "plugins": ["YesAlready"]
   }
 ]
