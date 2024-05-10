@@ -1,0 +1,70 @@
+[
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/FFXIVActionEffectRange/master/repo.json",
+    "plugins": ["ActionEffectRange"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/FFXIVAetherCompass/master/repo.json",
+    "plugins": ["AetherCompass"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/BDTHPlugin/main/repo.json",
+    "plugins": ["BDTHPlugin"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/IslandWorkshopSolver/master/repo.json",
+    "plugins": ["Beachcomber"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/xivlauncher_physics_plugin/main/repo.json",
+    "plugins": ["HighFpsPhysicsPlugin"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/HPDiff/main/repo.json",
+    "plugins": ["HPDiff"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/MakePlacePlugin/master/repo.json",
+    "plugins": ["MakePlacePlugin"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/MarketBoardPlugin/develop/repo.json",
+    "plugins": ["MarketBoardPlugin"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/ffxiv_materialui_accent/master/repo.json",
+    "plugins": ["MaterialUI"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/MultiHit/master/repo.json",
+    "plugins": ["MultiHit"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/ReAction/master/repo.json",
+    "plugins": ["ReAction"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/Dalamud.SkipCutscene/main/repo.json",
+    "plugins": ["SkipCutscene"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/TextAdvance/master/repo.json",
+    "plugins": ["TextAdvance"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/Weatherman/master/repo.json",
+    "plugins": ["Weatherman"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/WheresMouse/master/repo.json",
+    "plugins": ["WheresMouse"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/XAT/master/repo.json",
+    "plugins": ["XAT.Plugin"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/YesAlready/master/repo.json",
+    "plugins": ["YesAlready"]
+  }
+]
