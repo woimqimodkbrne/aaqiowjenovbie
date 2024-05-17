@@ -112,6 +112,30 @@
     "AcceptsFeedback": true
   },
   {
+    "Author": "Haselnussbomber",
+    "Name": "HaselTweaks",
+    "InternalName": "HaselTweaks",
+    "AssemblyVersion": "23.0.2.0",
+    "Description": "Keep on tweaking.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A collection of quality of life tweaks.",
+    "AcceptsFeedback": true,
+    "Changelog": "Scrollable Tabs\n\n- Fixed: The game would crashe when scrolling too far in the Expanded Retainer Inventory or Companion window.",
+    "DownloadCount": 0,
+    "LastUpdate": 1715928574,
+    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/HaselTweaks/releases/download/23.0.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/HaselTweaks/releases/download/23.0.2.0/latest.zip",
+    "Tags": [
+      "krdmthird"
+    ]
+  },
+  {
     "Author": "Kirrana",
     "Name": "High FPS Physics Fix",
     "InternalName": "HighFpsPhysicsPlugin",
