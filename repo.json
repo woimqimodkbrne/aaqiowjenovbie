@@ -432,5 +432,29 @@
     "Tags": [
       "krdmthird"
     ]
+  },
+  {
+    "Author": "daemitus, croizat",
+    "Name": "YesAlready",
+    "InternalName": "YesAlready",
+    "AssemblyVersion": "1.6.3.2",
+    "TestingAssemblyVersion": "1.6.3.2",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/woimqimodkbrne/YesAlready/raw/master/res/Icon.png",
+    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/YesAlready/releases/download/1.6.3.2/YesAlready.zip",
+    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/YesAlready/releases/download/1.6.3.2/YesAlready.zip",
+    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/YesAlready/releases/download/1.6.3.2/YesAlready.zip",
+    "AcceptsFeedback": true,
+    "Tags": [
+      "krdmthird"
+    ]
   }
 ]
