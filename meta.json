@@ -15,6 +15,10 @@
     "repo": "https://raw.githubusercontent.com/woimqimodkbrne/IslandWorkshopSolver/master/repo.json",
     "plugins": ["Beachcomber"]
   },
+	{
+    "repo": "https://raw.githubusercontent.com/woimqimodkbrne/HaselTweaks/main/repo.json",
+    "plugins": ["HaselTweaks"]
+  },
   {
     "repo": "https://raw.githubusercontent.com/woimqimodkbrne/xivlauncher_physics_plugin/main/repo.json",
     "plugins": ["HighFpsPhysicsPlugin"]
